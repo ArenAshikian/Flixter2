@@ -23,7 +23,7 @@
 
 ### Notes
 
-Describe any challenges encountered while building the app.
+I did not really encounter any challenges this time around. The most difficult part about this was dealing with the sytax for parsing.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
